@@ -53,6 +53,6 @@ print("---------------------------------------------------------------")
 ![image](https://github.com/saniyaganesamoorthy/Single-server-infinite-capacity---Markov-Model/assets/145742583/763aaac8-feef-4184-816f-cb5bddca5113)
 
 ## Result :
-By using python programming we find the Series Queues with infinite capacity and calculated.
+By using python programming we find the Single server with infinite capacity and calculated.
 
 
